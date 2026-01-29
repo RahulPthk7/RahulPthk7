@@ -102,12 +102,7 @@ Email
 </a>
 </td>
 
-<td align="center" width="110">
-<a href="https://github.com/RahulPthk7" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" width="40"/><br>
-GitHub
-</a>
-</td>
+
 
 </tr>
 </table>
