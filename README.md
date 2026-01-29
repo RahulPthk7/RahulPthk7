@@ -15,7 +15,7 @@
 - 🔐 Implement **authentication & authorization** using **Spring Security & JWT**
 - 🗄️ Design and manage **relational databases** with **MySQL, JPA & Hibernate**
 - 🧪 Develop and test **RESTful APIs**
-- 
+
 
 ---
 
@@ -26,10 +26,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RahulPthk7&show_icons=true&theme=tokyonight" />
-</p>
 
 ---
 
