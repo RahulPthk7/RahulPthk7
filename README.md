@@ -16,8 +16,8 @@
 
 💼 **What I Do**  
 - ⚙️ Build **Java backend applications** using Spring Boot & REST APIs  
-- 🔐 Implement **basic authentication & role-based access control**  
-- 🗄️ Work with **relational databases (MySQL)** using SQL & JPA  
+- 🔐 Implement **basic authentication & authorization with Spring Security**  
+- 🗄️ Work with **relational databases (MySQL)** using SQL & **SpringJPA**  
 - 🧠 Strengthen **DSA & problem-solving skills** through practice  
 - 📚 Continuously learning **backend development best practices**  
 
