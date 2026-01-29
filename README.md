@@ -1,3 +1,6 @@
+<br />
+<br />
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=28&duration=1800&pause=800&color=00C4FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Rahul+Pathak;Java+Backend+Developer+💻;Spring+Boot+%26+REST+API+Enthusiast;Always+Learning+📚+Always+Building" alt="Typing SVG" />
